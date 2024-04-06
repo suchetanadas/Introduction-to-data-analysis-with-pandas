@@ -1,2 +1,2 @@
-# Introduction to data analysis with pandas
+# Solutions to Exercises from the Introduction to Data Analysis with Pandas
  
